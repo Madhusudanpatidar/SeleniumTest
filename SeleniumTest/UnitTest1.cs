@@ -15,7 +15,7 @@ namespace SeleniumTest
             ChromeOptions CHoptions = new ChromeOptions();
             var driver = new ChromeDriver(CHoptions);
             //CHoptions.AddArguments("headless");
-
+            //Test update
 
             //Notice navigation is slightly different than the Java version
             //This is because 'get' is a keyword in C#
